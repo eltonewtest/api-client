@@ -1,0 +1,51 @@
+[
+	{
+		"codigo":1,
+		"nome":"iPhone 13",
+		"marca":"Apple"
+	},
+	{
+		"codigo":2,
+		"nome":"Galaxy S22",
+		"marca":"Samsung"
+	}, 
+	{
+		"codigo":3,
+		"nome":"Moto G60s",
+		"marca":"Motorola"
+	},
+	{
+		"codigo":4,
+		"nome":"iPhone 13 Pro Max",
+		"marca":"Apple"
+	}, 
+	{
+		"codigo":5,
+		"nome": "Redmi Note 10S",
+		"marca":"Xiaomi"
+	},
+	{
+		"codigo":6,
+		"nome":"Galaxy S20 FE",
+		"marca":"Samsung"
+	},
+	{
+		"codigo":7,
+		"nome":"Galaxy20",
+		"marca":"Motorola"
+	},
+	{
+		"codigo":9,
+		"nome":"iPhoneA03",
+		"marca":"Samsung"
+	},
+	{
+		"codigo":8,
+		"nome":"Moto Edge 12",
+		"marca":"Apple"},
+	{
+		"codigo":10,
+		"nome":"Mi 11Midnight",
+		"marca":"Xiaomi"
+	}
+]
